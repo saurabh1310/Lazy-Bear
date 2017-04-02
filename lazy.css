@@ -1,0 +1,29 @@
+#content{
+	text-align: center;
+	padding-top: 10%;
+	text-shadow: 0px 4px 3px red,
+	             0px 8px 13px orange,
+	             0px 18px 23px yellow;
+}
+body{
+	background: url();
+	background-size: contain;
+	background-position: left;
+	background-repeat: no-repeat;
+	background-size: 50%;
+	font-family: lora;
+}
+html {
+	height: 100%;
+}
+h1{
+	color: purple;
+	font-weight: 700;
+	font-size: 5em;
+}
+h3{
+	color: white;
+}
+hr {
+	width: 400px; 
+}
